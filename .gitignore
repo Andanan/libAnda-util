@@ -1,0 +1,12 @@
+# eclipse
+.settings/
+.project
+.classpath
+
+# maven
+target/
+
+# local
+tmp/
+local/
+nogit/
